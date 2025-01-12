@@ -53,32 +53,32 @@
 /* Adding the class "dark-theme" to body gives dark theme */
 .dark-theme {
   /*****BODY COLOR*****/
-  --body-bg-color: #131313;
-  --light-text-color: #f0f0f0;
-  --box-bg-color: #1d1d1d;
+  --body-bg-color: #232222;
+  --light-text-color: #ccc8c8;
+  --box-bg-color: #2a2828;
   /***** TEXT COLORS *****/
-  --text-color-white: #f0f0f0;
+  --text-color-white: #d8d7d7;
   --text-color-black: #060505;
-  --text-color-red: red;
+  --text-color-red: rgb(223, 10, 10);
 
   /* --text-color-primary: #173246; */
-  --text-color-primary: #1e5d78;
-  --text-color-primary-or-white: #f0f0f0;
+  --text-color-primary: #23789c;
+  --text-color-primary-or-white: #ccc8c8;
   --text-color-primary-dark: #173246;
   --text-color-primary-light: #3e618e;
-  --text-color-grey: #f0f0f0;
-  --text-color-grey-light: rgba(255, 255, 255, 0.58);
+  --text-color-grey: #b7b5b5;
+  --text-color-grey-light: rgba(220, 218, 218, 0.986);
   /***** BORDER COLORS *****/
-  --border-color-black: #060505;
-  --border-color-white: #f0f0f0;
+  --border-color-black: #111010;
+  --border-color-white: #dfdede;
   --border-color-primary: #173246;
-  --border-color-primary-dark: rgb(11, 11, 62);
+  --border-color-primary-dark: rgb(14, 14, 55);
   --border-color-grey: #505050;
   --border-color-green: rgba(0, 128, 0);
   --border-color-orange: rgba(245, 92, 5, 0.5);
   --border-color-grey-light: grey;
   --border-color-primary-light: #3e618e;
-  --border-color-red: rgba(193, 0, 0, 1);
+  --border-color-red: rgb(177, 10, 10);
 
   /***** BACKGROUND COLORS *****/
   --bg-color-black: #060505;
@@ -100,7 +100,7 @@
 
   --box-shadow-color-primary: #173246;
   --box-shadow-color-primary-dark: rgba(1, 51, 91, 0.7);
-  --box-shadow-color-grey-light: grey;
+  --box-shadow-color-grey-light: rgb(94, 89, 89);
   --box-shadow-color-grey: #505050;
   --box-shadow-color-green: #224529;
 }
